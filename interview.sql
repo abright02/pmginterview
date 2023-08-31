@@ -1,3 +1,4 @@
+/* SQL for PMG interview, queries carried out in MS access using SQL viewer */
 /* # Question 1 */
 SELECT date, SUM(impressions) AS total_impressions
 FROM marketing_performance1
